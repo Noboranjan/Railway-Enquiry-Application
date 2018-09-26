@@ -10,7 +10,6 @@
 1. Windows7/Windows8/Windows10
 1. Visual Studio 2012 upto 17
 1. .NET Framework
-1. Bunifu Framework
 
 ### Installing
 
