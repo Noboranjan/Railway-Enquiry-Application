@@ -1,9 +1,8 @@
 # Railway Enquiry Application
 
 
-<a href="https://imgflip.com/gif/29t893"><img src="https://imgflip.com/gif/2is1u6" title="Login Register"/></a>
+<a href="https://imgflip.com/gif/2is1u6"><img src="https://i.imgflip.com/2is1u6.gif" title="made at imgflip.com"/></a>
 
-<a href="https://imgflip.com/gif/29t8cy"><img src="https://i.imgflip.com/29t8cy.gif" title="made at imgflip.com"/></a>
 
 ## Getting Started
 
